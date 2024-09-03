@@ -12,7 +12,7 @@ import { Viewport } from "pixi-viewport";
   document.body.appendChild(app.canvas);
 
   const demoSvg = await Assets.load({
-    src: "/spiceiodemo/demo3.svg",
+    src: "/spiceiodemoapp/demo3.svg",
     data: {
       parseAsGraphicsContext: true,
     },
