@@ -14,9 +14,11 @@
     "vite": "^5.4.1"
   },
   "dependencies": {
+    "@pixi-essentials/svg": "^2.0.1",
     "fabric": "^6.3.0",
     "pixi-viewport": "^5.0.3",
     "pixi.js": "^8.3.4",
+    "stats.js": "^0.17.0",
     "three": "^0.167.1"
   }
 }
