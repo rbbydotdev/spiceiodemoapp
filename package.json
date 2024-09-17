@@ -19,6 +19,7 @@
     "pixi-viewport": "^5.0.3",
     "pixi.js": "^8.3.4",
     "stats.js": "^0.17.0",
-    "three": "^0.167.1"
+    "three": "^0.167.1",
+    "vite-plugin-static-copy": "^1.0.6"
   }
 }
